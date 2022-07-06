@@ -1,4 +1,4 @@
 config:
-  info: "master ranch,springcloud-config/config-dev.yml version=1"
+  info: "master ranch,springcloud-config/config-dev.yml version=1 update222"
   aaa:  "111"
   update: "222"
